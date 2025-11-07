@@ -47,7 +47,7 @@ export function Pokedex() {
   }, [filtered, page]);
 
   return (
-    <div className="flex flex-col justify-center min-h-screen bg-gray-100 p-6 font-montserrat">
+    <div className="flex flex-col justify-center min-h-screen bg-gray-100 p-6 ">
       <h1 className="text-3xl font-bold text-center mb-6">PokéDex</h1>
 
       <div className="w-full flex flex-col sm:flex-row items-center justify-center gap-4 mb-6">
