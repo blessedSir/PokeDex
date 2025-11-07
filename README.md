@@ -56,3 +56,4 @@ Open in browser 👉 http://localhost:5173
 
 Sergey Levkovsky   
 Frontend Developer   
+https://poke-dex-sandy-six.vercel.app/  
